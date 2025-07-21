@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("Сосал? Ебали!");
 
+        System.out.println("Да заработай ты уже сука!!!!!!11!11!");
+
     }
 }
