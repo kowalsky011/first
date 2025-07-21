@@ -5,5 +5,7 @@ public class Main {
 
         System.out.println("Сосал? Ебали!");
 
+        System.out.println("Какого нахуй хуя так сложно то бляяяяяяяяяяяяяяя??????");
+
     }
 }
